@@ -1,2 +1,3 @@
 # BROKEN
-# Nitter no longer worksto retrieve RSS feed
+# Nitter no longer works to fetch RSS feed
+# Will fix eventually
